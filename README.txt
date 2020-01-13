@@ -20,7 +20,7 @@ with URL params:
 	
 
 with body but without params:
-	works as described in the example byt data should be in "data" property 
+	works as described in the example but data should be in "data" property 
 for example:
 
 	url: http://localhost:3000/batch
